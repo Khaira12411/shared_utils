@@ -1,6 +1,7 @@
 # -------------------- Pokemon GIF Retriever --------------------
 from typing import Literal
-from pokemon_utils.pokemon_gif.gif_data import *
+from .gif_data import *
+
 
 async def get_pokemon_gif(
     input_name: str,

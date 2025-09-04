@@ -1,0 +1,3 @@
+from shared_utils.pokemon_utils.pokemon_gif import get_pokemon_gif
+
+print(get_pokemon_gif)

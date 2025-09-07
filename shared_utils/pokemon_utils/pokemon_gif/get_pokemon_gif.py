@@ -47,7 +47,7 @@ async def get_pokemon_gif(
         region_suffix = "-galar"
         name_parts.remove("galarian")
 
-    elif "galarian" in name_parts:
+    elif "hisuian" in name_parts:
         region_suffix = "-hisui"
         name_parts.remove("hisuian")
 

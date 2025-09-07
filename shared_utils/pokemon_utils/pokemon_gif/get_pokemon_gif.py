@@ -42,9 +42,14 @@ async def get_pokemon_gif(
     if "alolan" in name_parts:
         region_suffix = "-alola"
         name_parts.remove("alolan")
+
     elif "galarian" in name_parts:
         region_suffix = "-galar"
         name_parts.remove("galarian")
+
+    elif "galarian" in name_parts:
+        region_suffix = "-hisui"
+        name_parts.remove("hisuian")
 
     # Mega / Gigantamax
     remaining_name = "-".join(name_parts)
@@ -64,20 +69,20 @@ async def get_pokemon_gif(
 
     # -------------------- Determine GIF URL --------------------
     gif_url = None
+    attr_name = remaining_name.replace("-", "_")  # snake_case for Python attrs
 
     # 1️⃣ Try to fetch from class based on golden/regular
     if golden:
-        normalized_name = remaining_name.replace("-", "_")
-        gif_url = getattr(GOLDEN_POKEMON_URL, normalized_name, None)
+        gif_url = getattr(GOLDEN_POKEMON_URL, attr_name, None)
     else:
-        gif_url = getattr(REGULAR_POKEMON_URL, remaining_name, None)
+        gif_url = getattr(REGULAR_POKEMON_URL, attr_name, None)
 
     # 2️⃣ Handle Gmax separately using hardcoded maps
     if form == "gmax":
         if shiny:
-            gif_url = getattr(SHINY_GMAX_URL, remaining_name, None)
+            gif_url = getattr(SHINY_GMAX_URL, attr_name, None)
         else:
-            gif_url = getattr(REGULAR_GMAX_URL, remaining_name, None)
+            gif_url = getattr(REGULAR_GMAX_URL, attr_name, None)
 
     # 3️⃣ Fallback to Showdown URL
     if not gif_url:

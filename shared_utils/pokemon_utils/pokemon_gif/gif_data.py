@@ -1,6 +1,8 @@
 class REGULAR_POKEMON_URL:
     diglett = "https://media.discordapp.net/attachments/1410396560151543830/1410396591340257341/diglett.gif?ex=68b0ddaf&is=68af8c2f&hm=3a317661e11456ca87415add28cf04d3ba752402ddcf1bb594472239ce335d8a&="
-
+    xerneas_neutral = "https://media.discordapp.net/attachments/1410396560151543830/1414225733500272762/23jsanc8a.png?ex=68becbd9&is=68bd7a59&hm=43e62af598af5d163634419d795254aea780a228d63a948ec1fa9ca5c8ca3fec&=&format=webp&quality=lossless&width=117&height=141"
+    meloetta_pirouette = "https://media.discordapp.net/attachments/851896179742212120/890544237010096148/lAnfu8an.gif?ex=68beaef3&is=68bd5d73&hm=d1d52dec3e8870a9cd91594a2473e7a4d0afe76128f48468f5790e20c4b121e9&=&width=66&height=100"
+    
 
 class GOLDEN_POKEMON_URL:
     kyurem_black = "https://cdn.discordapp.com/attachments/1154529612769009688/1184788670956445776/kyurem-black.gif?ex=67ce07af&is=67ccb62f&hm=6f810a5bc26dd833b9a591a8ab40844f87c0a6ca1c7457f5459c11fc78b5ddac&"

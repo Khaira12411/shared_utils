@@ -3,19 +3,7 @@ class REGULAR_POKEMON_URL:
     xerneas_neutral = "https://media.discordapp.net/attachments/1410396560151543830/1414225733500272762/23jsanc8a.png?ex=68becbd9&is=68bd7a59&hm=43e62af598af5d163634419d795254aea780a228d63a948ec1fa9ca5c8ca3fec&=&format=webp&quality=lossless&width=117&height=141"
 
 
-class GOLDEN_POKEMON_URL:
-    kyurem_black = "https://cdn.discordapp.com/attachments/1154529612769009688/1184788670956445776/kyurem-black.gif?ex=67ce07af&is=67ccb62f&hm=6f810a5bc26dd833b9a591a8ab40844f87c0a6ca1c7457f5459c11fc78b5ddac&"
-
-    kyurem_white = "https://cdn.discordapp.com/attachments/1154529612769009688/1184788892726087700/kyurem-white.gif?ex=67ce07e4&is=67ccb664&hm=67818816bcf7bc4a9f5241d421d18435e5b5a08d785b723d6d22ff9b4af4d9aa&"
-
-    giratina_origin = "https://cdn.discordapp.com/attachments/1032422074540638300/1032427748737699861/goldengiratinaorigin.gif?ex=67ce1d44&is=67cccbc4&hm=1c5a9d88bb01d847e4339908762786c96910ab0e579af9cc6637e5b44fe8a01b&"
-
-    galarian_articuno = "https://cdn.discordapp.com/attachments/1294127126387359798/1316819219794497636/galarian-articuno.gif?ex=67cdcff7&is=67cc7e77&hm=b924b6aa8c5f50d78bdf29917816583848a11cd25cb1d1670e2eaf668462a87a&"
-
-    galarian_zigzagoon = "https://cdn.discordapp.com/attachments/1278799530363719693/1278801749804585061/263-zigzagoon-galar.gif?ex=67cdeef0&is=67cc9d70&hm=786f0f6687e83c9a66a47320f4184920c1a9632634e36c7aad8979ff00bcfb58&"
-
-    galarian_linoone = "https://cdn.discordapp.com/attachments/1278799530363719693/1278802294636285963/264-linoone-galar.gif?ex=67cdef72&is=67cc9df2&hm=e347871f58e916ed67d9b1fe47c8b3732a3ae2a4dd47b046ccb9ec065ee053d0&"
-
+class GOLDEN_MEGA_POKEMON_URL:
     mega_charizard_x = "https://cdn.discordapp.com/attachments/1331944490935517184/1331991187162140755/006-mega-x.gif?ex=67ccfa36&is=67cba8b6&hm=ae7ce2e28ceae6b6552bb8438dbcd5c40688529517d871bdb366ef2083b54117&"
 
     mega_blastoise = "https://cdn.discordapp.com/attachments/1275907909393584132/1276054722037551125/009-mega.gif?ex=67cd2b11&is=67cbd991&hm=f2f1b1a67d45e8f8de461f35cb4d1360ca938b8702aeb9e312ddc3db381dc94e&"
@@ -44,13 +32,27 @@ class GOLDEN_POKEMON_URL:
 
     mega_gallade = "https://media.discordapp.net/attachments/1249277613198016555/1400609921724186634/7084.gif?ex=68b0dba3&is=68af8a23&hm=a190ee2861d5b343df2bf5958eb60aa2a496b429638005eced3130fea98240e1&="
 
-    mega_steelix = "https://media.discordapp.net/attachments/1323758555605631001/1408274210492780554/208-mega.gif?ex=68b06550&is=68af13d0&hm=5657ffc81653fec1014b3d98fdda374e5d1911d30f9e6638a98e8d8278dbbf50&="
+    mega_steelix = "https://cdn.discordapp.com/attachments/1323758555605631001/1408274210492780554/208-mega.gif?ex=68c188d0&is=68c03750&hm=6272046b1ab478aef23e166c3cd808b56deabbbaff4626f707cb7bcb7e20ab72"
 
     mega_lopunny = "https://media.discordapp.net/attachments/1323758555605631001/1362325411647983646/7048.gif?ex=68b0aaa8&is=68af5928&hm=5343a8f465b7a35dd5d836e9888a686b84c145665e4df91a0ca65cdef41adafb&="
 
     mega_rayquaza = "https://media.discordapp.net/attachments/673287515117191171/1369991880091111486/7120.gif?ex=68b0df1d&is=68af8d9d&hm=093a7c4df0ea4c5484b38eab7ef4f4ffc2a027d8948d647a0f29eb37d7ba05ef&="
 
     mega_absol = "https://media.discordapp.net/attachments/677411940989009923/1392959189508165663/7129.gif?ex=68b0b5d6&is=68af6456&hm=de2b612d02cacb43aed2ad31c08475f2122c271a64c02ca6a96a1a9398464189&="
+
+
+class GOLDEN_POKEMON_URL:
+    kyurem_black = "https://cdn.discordapp.com/attachments/1154529612769009688/1184788670956445776/kyurem-black.gif?ex=67ce07af&is=67ccb62f&hm=6f810a5bc26dd833b9a591a8ab40844f87c0a6ca1c7457f5459c11fc78b5ddac&"
+
+    kyurem_white = "https://cdn.discordapp.com/attachments/1154529612769009688/1184788892726087700/kyurem-white.gif?ex=67ce07e4&is=67ccb664&hm=67818816bcf7bc4a9f5241d421d18435e5b5a08d785b723d6d22ff9b4af4d9aa&"
+
+    giratina_origin = "https://cdn.discordapp.com/attachments/1032422074540638300/1032427748737699861/goldengiratinaorigin.gif?ex=67ce1d44&is=67cccbc4&hm=1c5a9d88bb01d847e4339908762786c96910ab0e579af9cc6637e5b44fe8a01b&"
+
+    galarian_articuno = "https://cdn.discordapp.com/attachments/1294127126387359798/1316819219794497636/galarian-articuno.gif?ex=67cdcff7&is=67cc7e77&hm=b924b6aa8c5f50d78bdf29917816583848a11cd25cb1d1670e2eaf668462a87a&"
+
+    galarian_zigzagoon = "https://cdn.discordapp.com/attachments/1278799530363719693/1278801749804585061/263-zigzagoon-galar.gif?ex=67cdeef0&is=67cc9d70&hm=786f0f6687e83c9a66a47320f4184920c1a9632634e36c7aad8979ff00bcfb58&"
+
+    galarian_linoone = "https://cdn.discordapp.com/attachments/1278799530363719693/1278802294636285963/264-linoone-galar.gif?ex=67cdef72&is=67cc9df2&hm=e347871f58e916ed67d9b1fe47c8b3732a3ae2a4dd47b046ccb9ec065ee053d0&"
 
     primal_kyogre = "https://media.discordapp.net/attachments/703430088980430889/1408263024657301514/7585.gif?ex=68b05ae5&is=68af0965&hm=bb39313b52d41478fcd253b8bb747f0b3e12172b48a4b375c69505f9bb82662d&="
 

@@ -4,7 +4,6 @@ from shared_utils.pokemon_utils.pokemon_gif.gif_data import *
 
 
 async def get_pokemon_gif(input_name: str) -> dict[str, str | bool]:
-    print("[DEBUG] LOADED get_pokemon_gif.py from:", __file__)
 
     original_input = input_name
     shiny = False
@@ -50,10 +49,7 @@ async def get_pokemon_gif(input_name: str) -> dict[str, str | bool]:
     base_name = f"{remaining_name}{region_suffix}".lower()
     attr_name = remaining_name.replace("-", "_")
 
-    # 🔹 DEBUG
-    print(
-        f"[DEBUG] attr_name: {attr_name}, form: {form}, golden: {golden}, shiny: {shiny}"
-    )
+
 
     gif_url = None
     gif_name = None

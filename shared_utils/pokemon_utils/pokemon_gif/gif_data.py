@@ -1,6 +1,29 @@
 class REGULAR_POKEMON_URL:
     diglett = "https://media.discordapp.net/attachments/1410396560151543830/1410396591340257341/diglett.gif?ex=68b0ddaf&is=68af8c2f&hm=3a317661e11456ca87415add28cf04d3ba752402ddcf1bb594472239ce335d8a&="
     xerneas_neutral = "https://media.discordapp.net/attachments/1410396560151543830/1414225733500272762/23jsanc8a.png?ex=68becbd9&is=68bd7a59&hm=43e62af598af5d163634419d795254aea780a228d63a948ec1fa9ca5c8ca3fec&=&format=webp&quality=lossless&width=117&height=141"
+    houndstone = "https://media.discordapp.net/attachments/1331944490935517184/1331946425390600242/972.gif?ex=68c55346&is=68c401c6&hm=308042f9c5c23a2d7cd0a2792dc25884bb09af4231067ff263a3bfd54be19beb&=&width=87&height=89"
+    gimmighoul = "https://media.discordapp.net/attachments/1154529612769009688/1392914728980054229/gimmighoul.gif?ex=68c4fbae&is=68c3aa2e&hm=f60aade84701de19a5c974eed3eb6e50734bb12fa46bf9f7a381e474911409a9&=&width=60&height=53"
+    roaring_moon = "https://media.discordapp.net/attachments/721599353688686666/1415838894586335282/roaring-moon.gif?ex=68c552f9&is=68c40179&hm=f1afd7a962c235891d1dfbf5ecffe4fbab16e150ff0e6f011ff5740e4c8d0745&=&width=196&height=78"
+    chi_yu = "https://media.discordapp.net/attachments/721599353688686666/1415838179361165342/chi-yu.gif?ex=68c5524e&is=68c400ce&hm=ce1c2d8516d210e1891ea4c2755b03d3052eea22766a0320374b22da93f429ac&=&width=61&height=59"
+    wo_chien = "https://media.discordapp.net/attachments/1249277613198016555/1400598665709486222/wo-chien.gif?ex=68c54067&is=68c3eee7&hm=0dd207caf64255fed6753f33591916da31eb7cc3f780f249b35d40db4bcdad22&=&width=88&height=102"
+    crystal_onix = "https://media.discordapp.net/attachments/1202428993408868373/1210027575221424128/crystal-onix.gif?ex=68c56a3f&is=68c418bf&hm=ba80e75421c88081f298522166f737fc1c64aec112e060203d95abe82d63a66c&=&width=101&height=129"
+    crystal_steelix = "https://media.discordapp.net/attachments/784107839609241600/1204959915517411328/crystal_steelix.gif?ex=68c56f9e&is=68c41e1e&hm=c3bd02fcf55ad4ee5ab3e624201e9294f78004584d8737abf5beb57198ae43d8&=&width=104&height=118"
+    ting_lu = "https://media.discordapp.net/attachments/1323758555605631001/1408197208414879794/ting-lu.gif?ex=68c53599&is=68c3e419&hm=41e05d76d4a8e7e24527413394b84ad749984406050549e7b60ef512290b550d&=&width=118&height=137"
+    chien_pao = "https://media.discordapp.net/attachments/703430088980430889/1408182273878130749/chien-pao.gif?ex=68c527b0&is=68c3d630&hm=759ffc76c3766757ea4f674a876ac505236b4892980cb5f0789b152e12b45d48&=&width=123&height=88"
+    gholdengo = "https://media.discordapp.net/attachments/1249277613198016555/1400597960911487196/1000.gif?ex=68c53fbf&is=68c3ee3f&hm=b9d03e5c2761f1ff1f531fd15857bfb22f2ae7dcc6fa812b474c0ee374b8534c&=&width=61&height=80"
+    gimmighoul_roaming = "https://media.discordapp.net/attachments/1323758555605631001/1400593148371275806/gimmighoul-roaming.gif?ex=68c53b44&is=68c3e9c4&hm=e494958a154258f274ef06a7953ef3381dc45735387b281801fcb7ddfd8a269a&=&width=61&height=43"
+    arctibax = "https://media.discordapp.net/attachments/1323758555605631001/1385352425610674186/997.gif?ex=68c5283c&is=68c3d6bc&hm=a0685acbedb4b1c196cdaacf430a720d63cfb96511de8bb905516c5b4ddc31ac&=&width=61&height=88"
+    frigibax = "https://media.discordapp.net/attachments/1323758555605631001/1385352094231302284/996.gif?ex=68c527ed&is=68c3d66d&hm=6f5168330311a97106647eadeb651feba250586dca09ff131663a4dea0203c5a&=&width=61&height=59"
+    brute_bonnet = "https://media.discordapp.net/attachments/673287515117191171/1362525517437468892/986.gif?ex=68c52b85&is=68c3da05&hm=1ccd5ca822c969fd4add27c0dbcaaaa3f1c6a6d20d30803550cf68417531bb48&=&width=83&height=74"
+    flutter_mane = "https://media.discordapp.net/attachments/673287515117191171/1362525768521093252/987.gif?ex=68c52bc1&is=68c3da41&hm=9a1ed14a5b09999305e117913837ac4969801ea8687310e5584fc156d9010c07&=&width=128&height=92"
+    slither_wing = "https://media.discordapp.net/attachments/673287515117191171/1362526102148485381/988.gif?ex=68c52c11&is=68c3da91&hm=0072cd100f9526b0738021985ee636d672f1017a849f8a84a5fb1f2e0d862aa7&=&width=87&height=131"
+    sandy_shocks = "https://media.discordapp.net/attachments/673287515117191171/1362526468009099284/989.gif?ex=68c52c68&is=68c3dae8&hm=dd7a0f3408e4da86bd88c746b42c4b1b3786b730c6e15174742d7b4ba925ffdb&=&width=82&height=120"
+    iron_treads = "https://media.discordapp.net/attachments/673287515117191171/1369987428257108000/990.gif?ex=68c54a38&is=68c3f8b8&hm=ddbe7c12a36ad313dad544de3ec93a30f9c98aa6d45e14ef2910ca7d941a1bcf&=&width=98&height=73"
+    iron_bundle = "https://media.discordapp.net/attachments/673287515117191171/1362526740878200842/990.gif?ex=68c52ca9&is=68c3db29&hm=d5c3952320c576da8a276078a3a2a6f7f3127858f8cf16093657e3b58801e5d7&=&width=61&height=68"
+    iron_hands = "https://media.discordapp.net/attachments/703428324822745172/1377710501802414121/992.gif?ex=68c50aa4&is=68c3b924&hm=59a43bc6885d861fde4969d5f4a23226eccc58b303be451925c2ed4fed7056e3&=&width=163&height=93"
+    iron_jugulis = "https://media.discordapp.net/attachments/703428324822745172/1377710115570061393/993.gif?ex=68c50a48&is=68c3b8c8&hm=c896e367fcdf6ff17b57415a9e7cf2a8d29eda8b41c0e0e667a4b39a706694c8&=&width=140&height=124"
+    iron_moth = "https://media.discordapp.net/attachments/1323758555605631001/1385351651115929662/994.gif?ex=68c52784&is=68c3d604&hm=04fefd317ede2991fe47319fec496a33b0c5e72d8357bc6b4e6182670fb5b2a9&=&width=132&height=98"
+    iron_thorns = "https://media.discordapp.net/attachments/1323758555605631001/1385351875657732186/995.gif?ex=68c527b9&is=68c3d639&hm=2704b36bfc72b5056ace5c9b62a76574f94d026e7308f3a79e19dabb02635b47&=&width=89&height=119"
 
 
 class GOLDEN_MEGA_POKEMON_URL:
@@ -40,7 +63,7 @@ class GOLDEN_MEGA_POKEMON_URL:
 
     mega_absol = "https://media.discordapp.net/attachments/677411940989009923/1392959189508165663/7129.gif?ex=68b0b5d6&is=68af6456&hm=de2b612d02cacb43aed2ad31c08475f2122c271a64c02ca6a96a1a9398464189&="
 
-
+    mega_audino = "https://media.discordapp.net/attachments/1323758555605631001/1415848151725641798/mega-audino.gif?ex=68c55b98&is=68c40a18&hm=f33c7321654d8fa88852b96aa486a2dddc025e5fe1bfc1ecf148a5a41c19126f&=&width=73&height=108"
 class GOLDEN_POKEMON_URL:
     kyurem_black = "https://cdn.discordapp.com/attachments/1154529612769009688/1184788670956445776/kyurem-black.gif?ex=67ce07af&is=67ccb62f&hm=6f810a5bc26dd833b9a591a8ab40844f87c0a6ca1c7457f5459c11fc78b5ddac&"
 
